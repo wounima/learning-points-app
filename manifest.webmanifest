@@ -1,0 +1,9 @@
+{
+  "name": "學習點數銀行",
+  "short_name": "點數銀行",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#344c99"
+}
